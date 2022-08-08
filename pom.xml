@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.br.circulo.operario</groupId>
-	<artifactId>voto-seguro</artifactId>
+	<artifactId>voto-digital</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Voto Seguro</name>
-	<description>Projeto para </description>
+	<name>Voto Digital</name>
+	<description>Projeto para substituir o voto impresso na minha escola</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
